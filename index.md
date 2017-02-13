@@ -6,8 +6,8 @@ Club Lpl may have the silliest name this side of the internet, but the idea is g
 
 If you want to start a async discussion, or throw an idea on the board for some new language/technology to cover I highly recommend that you post it to the relative spot on our ideas project.
 
-[https://github.com/club-lpl/ideas/projects/1](Project Ideas)
-[https://github.com/club-lpl/ideas/issues](Async Discussion)
+* [Project Ideas](https://github.com/club-lpl/ideas/projects/1)
+* [Async Discussion](https://github.com/club-lpl/ideas/issues)
 
 ## Current Language
 
@@ -15,9 +15,9 @@ If you want to start a async discussion, or throw an idea on the board for some 
 
 ### What are we building?
 
-[https://github.com/club-lpl/vista](Vista) the amazing chore scheduling application, brought to you buy Lpl-Incorporated. Lpl-Incorporated bringing you the jokes one word at a time.
+[Vista](https://github.com/club-lpl/vista) the amazing chore scheduling application, brought to you buy Lpl-Incorporated. Lpl-Incorporated bringing you the jokes one word at a time.
 
 ### Noteable Links
 
-[https://github.com/h4cc/awesome-elixir](Elixir Awesome)
+[Elixir Awesome](https://github.com/h4cc/awesome-elixir)
 
