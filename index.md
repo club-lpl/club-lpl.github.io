@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Club Lpl
 
-You can use the [editor on GitHub](https://github.com/club-lpl/club-lpl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Club Lpl may have the silliest name this side of the internet, but the idea is golden. Getting together as a group to learn and experiement with other programming languages. The biggest goal of this project is to help you find new and creative solutions to your day to day problems, by examining how other languages work, and more importantly, how they deal with those problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ideas/Thoughts
 
-### Markdown
+If you want to start a async discussion, or throw an idea on the board for some new language/technology to cover I highly recommend that you post it to the relative spot on our ideas project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://github.com/club-lpl/ideas/projects/1](Project Ideas)
+[https://github.com/club-lpl/ideas/issues](Async Discussion)
 
-```markdown
-Syntax highlighted code block
+## Current Language
 
-# Header 1
-## Header 2
-### Header 3
+**Elixir**
 
-- Bulleted
-- List
+### What are we building?
 
-1. Numbered
-2. List
+[https://github.com/club-lpl/vista](Vista) the amazing chore scheduling application, brought to you buy Lpl-Incorporated. Lpl-Incorporated bringing you the jokes one word at a time.
 
-**Bold** and _Italic_ and `Code` text
+### Noteable Links
 
-[Link](url) and ![Image](src)
-```
+[https://github.com/h4cc/awesome-elixir](Elixir Awesome)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/club-lpl/club-lpl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
